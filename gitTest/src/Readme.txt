@@ -1,7 +1,1 @@
-aaa 1234
-
-bbbb
-
-ccc
-
-branch001 alterando.
+Branch001 - apagou todas as linhas, ficou só essa.
