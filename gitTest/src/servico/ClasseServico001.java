@@ -1,6 +1,6 @@
 package servico;
 
-public class ClasseServico01 {
+public class ClasseServico001 {
 	
 	public String olá() {
 		return "olá";
